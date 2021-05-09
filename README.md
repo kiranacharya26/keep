@@ -1,6 +1,2 @@
 # Run the code
-
-```
-npm install
-npm start
-```
+https://keepmi.netlify.app
